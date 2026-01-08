@@ -21,7 +21,9 @@
 ## 二、收集資料
 
 ### 街景獲取
-本專題使用 Mapillary 並手動下載街景圖片。
+|本專題使用 Mapillary 並手動下載街景圖片。|</br>
+|<img width="598" height="282" alt="image" src="https://github.com/user-attachments/assets/701ea298-57c0-40ea-80e1-4672b2e4e0b3" />|
+
 
 ### 圖片預處理比較
 
