@@ -28,7 +28,7 @@
 ### 圖片預處理比較
 
 | 項目 | AlexNet (MATLAB) | Teachable Machine 平台 |
-| :--- |<img width="342" height="375" alt="Image" src="https://github.com/user-attachments/assets/f77dad48-97ea-42bc-a737-fd5d8668384d" />| :--- |
+| :--- |<img width="342" height="375" alt="Image" src="https://github.com/user-attachments/assets/f77dad48-97ea-42bc-a737-fd5d8668384d" />| <img width="349" height="371" alt="Image" src="https://github.com/user-attachments/assets/9ee2c9a3-7e5e-4c4e-bd83-cc6fa2f5daac" /> |
 | **處理方式** | 用 XnView 把圖片轉換成全彩並調整大小 | 可以直接匯入未處理的照片 |
 | **設定細節** | 需設定寬度 227、高度 227、水平翻轉、轉換成全彩等 | 直接上傳 (Upload) 或使用 Webcam |
 | **資料量** | (依資料夾分類匯入) | BR: 56張, TW: 50張, US: 53張 |
